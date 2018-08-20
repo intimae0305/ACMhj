@@ -30,7 +30,7 @@
 //	}
 //	else//두번쨰 부분집합이 종료 되었을시
 //	{
-//		for (int t = i;i < end;i++, k++)
+//		for (int t = i;i < mid;i++, k++)
 //		{
 //			buffer[k] = val[i];
 //		}
