@@ -22,7 +22,7 @@
 //		}
 //		cout << u.front();
 //		u.pop();
-//		if (!u.empty())
+//		if (!u.empty)
 //		{
 //			cout << ", ";
 //		}
